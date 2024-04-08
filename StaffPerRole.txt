@@ -1,0 +1,1403 @@
+ACS UP Acad Advsr/CoAdm Liason	1
+ACS UP AcadAdvsr ComColLiason	1
+ACS UP Academic Adviser	2
+ACS UP Accessibilty Specialist	1
+ACS UP Asst Dir/Career Cnslor	1
+ACS UP Career Counselor	1
+ACS UP Com Cllg Lsn/Acad Advsr	1
+ACS UP Employer Relations Coor	1
+ACS UP Internship Advisor	1
+ACS UX Asc Dir Career Center	1
+ACS UX Assc Director UASC	1
+ACS UX Dir Advising&CareerServ	1
+ADM UP Admissions Counselor	5
+ADM UP Asst Dir Diversity Recr	1
+ADM UP Bilingual Adm Counselor	1
+ADM UP Executive Assistant	1
+ADM UP IntlAdmissionsCounselor	1
+ADM UP Sr Admissions Counselor	1
+ADM UP Sr Internat Adm Cnslr	1
+ADM UP Transfer Admin Couns	1
+ADM UX Asc Registrar  Reg&Rec	1
+ADM UX Asc Registrar  Std Info	1
+ADM UX Asst Dir Data Ops & Com	1
+ADM UX Asst Dir for ADM	1
+ADM UX Asst Registrar  Acd Sch	1
+ADM UX AsstDir Intl Admissions	1
+ADM UX Dir TranStudServ&UndRec	1
+ADM UX Registrar	1
+ADV UU Secretary to VP of ADV	1
+ALU UU AscDir Alumni Relations	1
+ALU UU Asst Dir  Edu & Travel	1
+ALU UU Dir  Alumni Relations	1
+ANT C Research Analyst 1 LlD	1
+ANT UP Assistant Professor NR	1
+ANT UP Asst Prof	3
+ANT UP Professor	2
+ANT UP Rsch Asst	1
+ANT UP Rsch Asst Professor	1
+ANT UT Salary Pool < .50	8
+ANT UX Department Chair	1
+ARC UP Associate Professor	1
+ARC UP Asst Prof	5
+ARC UP Dir CPID Prof	1
+ARC UP Professor	3
+ARC UP Rsch Asc	1
+ARC UT Salary Pool < .50	7
+ARC UX School Director	1
+ART UP Asc Prof	2
+ART UP Assistant Professor	1
+ART UP Assoc Prof	1
+ART UP Associate Professor	1
+ART UP Asst Prof	7
+ART UP Instructor	1
+ART UP Professor	6
+ART UT Salary Pool < .50	58
+ART UX School Director	1
+ATH UP Athletic Academic Advis	1
+ATH UU Asc Ath Dir-Development	1
+ATH UU AscAthDir-Compl&Academ	1
+ATH UU AscAthDirBusinessOps	1
+ATH UU Assc Dir StdtAthWelfare	1
+ATH UU AssistantSoftball Coach	1
+ATH UU Assoc Athletic Trainer	1
+ATH UU Asst Athl Trainer	1
+ATH UU Asst Coach  Football	3
+ATH UU Asst Coach  WVolleyball	1
+ATH UU Asst CsCnty/Trk&Fld Cch	1
+ATH UU Asst Dir Compliance	1
+ATH UU Asst Football Coach	2
+ATH UU Asst Media Relation Dir	1
+ATH UU Asst Mn's Basketbal Cch	1
+ATH UU Asst Mns Basketball Cch	1
+ATH UU Asst Strength&CondCoach	1
+ATH UU Asst Volleyball Coach	1
+ATH UU Asst Wmns Basketbal Cch	2
+ATH UU AsstAthDir-Fac&Ops	1
+ATH UU AsstTrack&FieldCoach	1
+ATH UU AstAthDirMediaRelations	1
+ATH UU Ath Academic Serv Dir	1
+ATH UU Athletic Director	1
+ATH UU Head Coach  Football	1
+ATH UU Head Coach M Basketball	1
+ATH UU Head M&W Tennis Coach	1
+ATH UU Head Mens Tennis Coach	1
+ATH UU Head Trainer	1
+ATH UU Head Volleyball Coach	1
+ATH UU Head Wmn Softball Cch	1
+ATH UU Head Wmns Basketbal Cch	1
+ATH UU Head Womens Golf Coach	1
+ATH UU HeadTrck&Fld CrsCtryCch	1
+ATH UU Mgr AnnualGiving&SpecEv	1
+ATH UU Strength & Cond Coach	1
+ATH UU Wmn's Head Soccer Coach	1
+AUX UU AsscDirAuxServCEGS	1
+AUX UU Aux Maint Manager	1
+AUX UU Box Office Manager	1
+AUX UU Event Planning Manager	1
+AUX UU Evnts&PresSvcsMgr UPL	1
+AUX UU Front Desk Manager	1
+AUX UU Housekeeping Manager	1
+AUX UU Retail Manager	1
+AUX UU StudentU&UnivEventsDir	1
+Accountant 1	17
+Accountant 2	12
+Accounting Technician	11
+Administrative Program Assist	42
+Administrative Program Spec	15
+Analyst Programmer	31
+Architectural Consultant	1
+Archivist	1
+Athletic Equipment Coordinator	1
+BAO UU Accts Receivable Mgr	1
+BAO UU Asst Controller	1
+BAO UU Asst Mgr Campus Accting	1
+BAO UU AstDir Contract&Procure	1
+BAO UU AstMgr SudentFinServ-AR	1
+BAO UU AstMgrStud Financial Sv	1
+BAO UU Cashier Operations Mgr	1
+BAO UU Contract Officer	1
+BAO UU Contract Officer PURCH	1
+BAO UU Contracts Ofcr / Buyer	1
+BAO UU Contracts Officer	1
+BAO UU Director StudentFinSvcs	1
+BAO UU Mgr Campus Accting Svcs	1
+BAO UX Mgr NonCreditSolutions	1
+BIO UP Asc Prof	5
+BIO UP Asc Professor	2
+BIO UP Associate Professor	2
+BIO UP Asst Prof	3
+BIO UP Asst Professor	1
+BIO UP Prof	6
+BIO UP Professor	2
+BIO UP Prog Mgr & Acad Advis	1
+BIO UP Rsch Asst	2
+BIO UP Rsch Asst PostDoc	1
+BIO UP Sr Rsch Asc I	1
+BIO UT Adjunct Pool	9
+BIO UT Hourly AFT	1
+BIO UX Department Chair	1
+BST UP Asc Prof	1
+BST UP Asst Prof	1
+BST UP Asst Professor	1
+BST UP Instructor	1
+BST UP Prof	1
+BST UT Salary Pool < .50	4
+BST UX Department Chair	1
+BUD UU Asst Dir Learning	1
+BUD UU Budget Analyst	1
+BUD UU Director Budget Ops	1
+BUD UU SrBud Analyst	1
+Budget Analyst	4
+Buyer 2	1
+CAP UP Alchl&DrgClinclPgrmSpec	1
+CAP UP Clncl Soc Wkr/Opr Cdntr	1
+CAP UP Crisis Services Coord	1
+CAP UP Psych Coord Div Actvs	1
+CAP UP Psychologist	4
+CAP UX Director for Testing	1
+CAP UX Operations Supervisor	1
+CAR UP Student Employment Coor	1
+CCF UP Business Coordinator	1
+CCF UP Continuing Edu Coord	1
+CCF UP Instructor	1
+CCF UP Instructor/Trainer	2
+CCF UP Instructor/Trainier	1
+CCF UP Instructor/TrainingCord	1
+CCF UP LAMM Prog Coordinator	1
+CCF UP Reseach Asst Professor	1
+CCF UP Research Associate	1
+CCF UP Rsch Asst	1
+CCF UP Sr Research Assistant I	1
+CCF UP Sr Research Asst I	2
+CCF UP SysCare Proj Coord	3
+CCF UX Asst Director	1
+CCF UX Operations Manager	1
+CCJ UP Academic Advisor	1
+CCJ UP Associate Professor	1
+CCJ UP Professor	2
+CCJ UP Senior Instructor II	1
+CDC UP Admin Coordinator	1
+CDC UP Kindergarten Prgm Lead	1
+CDC UX Dir Child Dvlpment Ct	1
+CDC UX Infant Toddler Prg Coor	1
+CDC UX Program Coord	1
+CDC UX Studio Program Lead	2
+CDC UX Transition Program Coor	1
+CED UP Program Manager	1
+CEN UP Asc Prof	7
+CEN UP Asst Prof	1
+CEN UP Instructor	2
+CEN UP Professor	5
+CEN UP Professor (CHE)	1
+CEN UP Program Administrator	1
+CEN UP Rsch Asc	2
+CEN UP Rsch Asst Prof	3
+CEN UP Rsch Asst Professor	1
+CEN UP Sr Rsch Asc (CHE)	1
+CEN UT Salary Pool < .50	2
+CEN UX Department Chair	1
+CEN UX Department Manager	1
+CEP UP AstDirDigital Marketing	1
+CEP UP Program Manager	1
+CEP UX Director	1
+CFS UP Assistant Professor	1
+CFS UP Assoc Prof	1
+CHE UP Asc Prof	1
+CHE UP Assistant Professor	1
+CHE UP Assoc Prof	2
+CHE UP Asst Prof	3
+CHE UP Instructor	1
+CHE UP Instructor NR	1
+CHE UP Post Doc Rsch Asst	1
+CHE UP Prof	5
+CHE UP Professor	2
+CHE UP Rsch Asc Prof	2
+CHE UP Rsch Asst	2
+CHE UP Rsch Asst PostDoc	2
+CHE UT 12 mo Salary Pool <.50	1
+CHE UT Hourly AFT	1
+CHE UT Salary Pool < .50	4
+CHE UX Department Chair	1
+CHE UX Department Manager	1
+CLS UP Assistant Professor NR	1
+CMP UP Advisor	1
+CMP UP Asc Prof	5
+CMP UP Asst Prof	2
+CMP UP Maseeh Prof EmrgingTech	1
+CMP UP Professor	14
+CMP UP Rsch Asc PostDoc	1
+CMP UP Rsch Asst Prof	1
+CMP UP Sr Instructor I	1
+CMP UP Sr Rsch Asc	1
+CMP UT Salary Pool < .50	5
+CMP UX Department Chair	1
+CMP UX Department Manager	1
+CNF UP Asc Prof	1
+CNF UP Assistant Professor	1
+CNF UP Asst Prof	1
+CNF UP Instructor	1
+CNF UP Professor	2
+CNF UP Sr Instructor II	1
+CNF UT Salary Pool <.5	3
+CNF UX Program Director	1
+CNS UU Unix Team Lead	1
+COM UP Assistant Professor	3
+COM UP Assoc Prof	1
+COM UP Asst Prof	2
+COM UP Professor	1
+COM UP Senior Instructor I	1
+COM UP Sr Instructor	1
+COM UT Salary Pool <.50	9
+COM UX Department Chair	1
+CPS UP Dir StudentCareer Svces	1
+CPS UP Program Manager	1
+CSS UU Lieutenant of Ops	1
+CSS UU Sergeant-Patrol Div	3
+CSS UX Comms & Records Sup	1
+CUS UP Research Administrator	1
+CUS UP Research Assistant	1
+CUS UP Research Associate	1
+CUS UP Rsch Asst	1
+CUS UP RschAstMultiFamProjCood	1
+CUS UT Hourly AFT	3
+CUS UX Dir Ctr For Urb Studie	1
+CWP UP Instr CWEduCoordinator	1
+CWP UP Instructor/TrainingCoor	1
+CWP UP Liason  Adopt Cert Prog	1
+CWP UP Program Administrator	1
+CWP UP Research Associate	2
+CWP UP Research Professor	1
+CWP UP Senior Instructor I	2
+CWP UP Sr Research Assistant I	1
+CWP UP Sr Research Associate I	2
+CWP UT Hourly AFT	1
+CWP UX Asst Training Manager	1
+CWP UX CrossSysTrainPrgmDir	1
+CWP UX Dir Workforce Dev&Train	1
+CWP UX Dir of Finance and Ops	1
+CWP UX Executive Director	1
+CWP UX Trng Unit Logistics Mgr	1
+Campus Dispatcher	5
+Campus Sec/Public Sfty Officer	14
+Carpenter	5
+Cashier 2	2
+Charge Nurse	1
+Construction Project Manager 1	1
+Cook 1	1
+Cook 2	1
+Custodial Services Coordinator	1
+Custodian	17
+DEN UP Staff Dentist - SHAC	1
+DEV UU Asc VP for Development	1
+DEV UU Asst Dean for DEV  COTA	1
+DEV UU Asst VP for Adv  Chf St	1
+DEV UU Asst VP for Development	1
+DEV UU Communications Mgr	1
+DEV UU Corp&FoundRelationCoord	1
+DEV UU Dev Officer  Schlr/Camp	2
+DEV UU Development Asc	1
+DEV UU Development Associate	1
+DEV UU Dir Annual Giving	1
+DEV UU Dir Donor Relations	1
+DEV UU Dir SustainInitiatives	1
+DEV UU Dir of Dev EDU	1
+DEV UU Dir of Development	1
+DEV UU Dir of Donor Relations	1
+DEV UU Dir of Gift Planning	1
+DEV UU Director of Development	1
+DEV UU Donor Engagement Coord	1
+DEV UU Exec Assist to AVP	1
+DEV UU ExecAsst to AVP ADV	1
+DEV UU Major Gifts Coord	1
+DEV UU Marketing Manager	1
+DEV UU Records Specialist	1
+DEV UU Regional Dev Officer	1
+DEV UU Research Analyst	1
+DEV UU Rsch & Re lMang Anlyst	1
+DEV UU SBA Dir of Development	1
+DEV UU Special Events Mgr	1
+DEV UU Sr Dir of Advanc Serv	1
+DEV UU Systems Manager	1
+DEV UU Telefund Manager	1
+DEV UX Adv Relationship Mgr	1
+DEV UX Sr Reporting Analyst	1
+DIV UU Chief Diversity Officer	1
+DIV UU Comm Rel Prgm Officer	1
+DIV UU Exec Asst	1
+DIV UU Investigator	2
+DIV UX Exec Asst & Coord	1
+DOS UP Asst Coord QueerStdtSer	1
+DOS UP Coor  Queer Stdt Srvcs	1
+DOS UX Dir  Srv Stds w Child	1
+DRC UP Accessibility Specialst	1
+DRC UX Dir Disability Res Ctr	1
+DRS UT 12m Salary Pool < .5	4
+DRS UT Hourly AFT	17
+Dental Assistant 2	6
+Dental Hygienist	2
+Developmental Engineer	2
+EAS UP Academic Advisor	1
+EAS UP Communications Director	1
+EAS UP Dir Stdnt Career Suc	1
+EAS UP External Relations Coor	1
+EAS UP Facilities&Ops Manager	1
+EAS UP MESA Progrm Coordinator	1
+EAS UP Professor	1
+EAS UP Recruitment & Outreach	1
+EAS UP Rsch Asst	1
+EAS UP Special Prgms Coord/Adv	1
+EAS UP Sr Rsch Administrator	2
+EAS UT 12 mo Salary Pool <.50	1
+EAS UT Hourly AFT	4
+EAS UX Asc Prof/Asc Dean	1
+EAS UX Chief Finance &OperOfcr	1
+EAS UX Dean  Engr & Appld Sci	1
+EAS UX Dir External Rels	1
+EAS UX Executive Dir MESA	1
+EAS UX IT Director	1
+ECE UP Asc Prof	1
+ECE UP Assoc Prof	1
+ECE UP Professor	1
+ECE UX Department Manager	1
+ECN UP Asc Prof	2
+ECN UP Assistant Professor	1
+ECN UP Associate Professor	1
+ECN UP Asst Prof	3
+ECN UP Asst Professor	2
+ECN UP Dept Manager	1
+ECN UP Professor	5
+ECN UP Sr Economist	1
+ECN UT Salary Pool < .50	3
+ECN UX Department Chair	1
+EDC UT Salary Pool Cohort Sup	9
+EDU UP Admissions Advisor	1
+EDU UP Asc Prof	15
+EDU UP Assistant Professor	1
+EDU UP Assoc Prof	2
+EDU UP Associate Professor	2
+EDU UP Asst Prof	10
+EDU UP Asst Prof SPED	2
+EDU UP Asst Professor	2
+EDU UP CEED Marketing Coord	1
+EDU UP CoordAssmts/Partnership	1
+EDU UP Data Coordinator	1
+EDU UP Doctoral Advr/AdminMgr	1
+EDU UP Field Placement Coord	1
+EDU UP Grant ProjectSpecialist	1
+EDU UP Instructor	4
+EDU UP Instructor C&I	2
+EDU UP Instructor NR	1
+EDU UP Instructor SPED	1
+EDU UP PracticumInternship Co	1
+EDU UP Prof	7
+EDU UP Professor	2
+EDU UP Program Coord CEED	1
+EDU UP Program Dev Specialist	1
+EDU UP Program Director	1
+EDU UP Program Specialist	3
+EDU UP Registration Manager	1
+EDU UP Senior Instructor	1
+EDU UP Senior Instructor I	1
+EDU UP Sr Instructor II	1
+EDU UP Sr Rsch Asc II	1
+EDU UP Teacher Diversity Coord	1
+EDU UP Univ Coord/Advisor BTP	1
+EDU UT CI Cohort Pool	25
+EDU UT SPED Cohort Pool	14
+EDU UT Salary Pool < .50	13
+EDU UT Salary Pool <.50	13
+EDU UX Asc Dean Acad Aff	1
+EDU UX Ch Fin & Op Officer	1
+EDU UX Dean School Of Eduction	1
+EDU UX Department Chair C&I	1
+EDU UX Department Chair COUN	1
+EDU UX Department Chair SPED	1
+EDU UX Dept Chair EPFA	1
+EDU UX Exec Asst to Dean	1
+EDU UX Manager of MISL	1
+EEN UP Asc Prof	5
+EEN UP Asstt Prof	1
+EEN UP OPEEP Project Manager	1
+EEN UP Professor	9
+EEN UP Rsch Asc Prof	1
+EEN UP Sr Instructor I	1
+EEN UP Westside Prgm Dir	1
+EEN UT 12 mo Salary Pool <.50	2
+EEN UT Salary Pool < .50	18
+EEN UX Department Chair	1
+EEN UX Prof/Asc Chair	1
+EEP UP Cnsling Srvs Coord EOP	1
+EEP UP Coor NativeAmerStdtSvcs	1
+EEP UP CoordAfricanAmerStdtSer	1
+EEP UP CoordofInstr&Advising	1
+EEP UP ETS 9-10 HS Coord	1
+EEP UP Interim UB/ETS Advisor	1
+EEP UP Middle School EducCoord	1
+EEP UP UB/ETS PortlandHS Coord	1
+EEP UX Dir  ETS/Project Plus	1
+EEP UX ExecDir of DMSS	1
+EEP UX Prgm Dir  SSS/EOP	1
+EMN UX Microscopist/FacMgrCEMN	1
+EMP UP Asc Prof	1
+EMP UP Assoc Prof	1
+EMP UP Asst Prof	1
+EMP UP Professor	1
+EMP UP Rsch Assist	1
+EMP UT Salary Pool < .50	4
+ENG UP Asc Prof	2
+ENG UP Asc Professor	11
+ENG UP Assistant Professor	2
+ENG UP Assoc Prof	2
+ENG UP Associate Professor	1
+ENG UP Asst Prof	3
+ENG UP Asst Professor	4
+ENG UP Instructor	2
+ENG UP Professor	8
+ENG UP Professor PR	1
+ENG UP Senior Instructor II	1
+ENG UP Sr Instructor II	1
+ENG UP Ungrad Academic Advisor	1
+ENG UP Writing Center Coord	1
+ENG UT Salary Pool < .50	30
+ENG UX Office Manager	1
+ESL UP Activities Coordinator	1
+ESL UP Instructor	2
+ESL UP Intl Student Advisor	2
+ESL UP Senior Instructor	1
+ESL UP Senior Instructor II	4
+ESL UP Sr Instructor I	1
+ESL UP Sr Instructor II	3
+ESL UT Salary Pool < .50	40
+ESL UX Operations Manager IELP	1
+ESL UX Program Director  IELP	1
+ESM UP Asc Prof	1
+ESM UP Asst Prof	1
+ESM UP Instructor	1
+ESM UP Prof	1
+ESM UP Rsch Asst	4
+ESM UP Rsch Asst Prof	1
+ESM UX Department Manager	1
+ESR UP Asc Prof	1
+ESR UP Asc prof	1
+ESR UP Assoc Prof	1
+ESR UP Associate Professor	1
+ESR UP Asst Prof	2
+ESR UP Instructor	1
+ESR UP Prof	1
+ESR UP Professor	1
+ESR UP Program Director SWRP	1
+ESR UP Project Coordinator	1
+ESR UP Rsch Asst	4
+ESR UT Hourly AFT	1
+ESR UT Salary Pool < .50	4
+ESR UX Dir Schl of Envirnmt	1
+ESR UX Dir of ESM	1
+ETM UX Department Manager	1
+Early Childhood Assistant	9
+Early Childhood Asso Teacher	21
+Electrical/Control System Tech	2
+Electrician	10
+Environ Health Safety Pro 2	4
+Environ Health Safety Pro 3	1
+Equipment Systems Specialist	3
+Executive Support Specialist 1	8
+Executive Support Specialist 2	1
+FAD UU AVP for Budget	1
+FAD UU AstBudAnalystOfcCoord	1
+FAD UU ExDir Capital Finance	1
+FAD UU ExDirCampusPlan&Dev	1
+FAD UU Executive Admin Asst	1
+FAD UU Fire & Life Safety Off	1
+FAD UU Risk Manager	1
+FAD UU Vice President FADM	1
+FAO UP Federal WkStdy Coord	1
+FAO UP Fin Aid Cnslr	1
+FAO UP Fin Aid Loan Counselor	1
+FAO UP Financial Aid Counselor	5
+FAO UP Outreach & Scholar Coor	1
+FAO UP Sr Financial Aid Coord	1
+FAO UP Student Loan Prog Coord	1
+FAO UP Title IV Aid Coord	1
+FAO UU Assistant Director	1
+FAO UU Asst Dir/Loan Serv Coor	1
+FAO UU Dir of Financial Aid	1
+FAO UX Customer Service Coord	1
+FAP UU Assoc Project Manager	1
+FAP UU Asst Dir Envrn Hlth&Saf	1
+FAP UU Asst Dir Maint Zone Mng	1
+FAP UU Asst Dir Oper & Maint	1
+FAP UU BSC Manager	1
+FAP UU Bldg AutoSys Supervisor	1
+FAP UU Constr Project Manager	2
+FAP UU Construct Contracts Sup	1
+FAP UU Construction Manager	1
+FAP UU Construction Prjct Mgr	1
+FAP UU Construction ProjectMgr	1
+FAP UU Custodial OperationsSup	1
+FAP UU Customer Svc Manager	1
+FAP UU Dir of Capital Proj Man	1
+FAP UU Dir of Facilties Mgmt	1
+FAP UU Electrician Supvr	1
+FAP UU EnvironHlth&SafetyDir	1
+FAP UU Exec Asst to the Dir	1
+FAP UU Maint & Landscpe Sprvsr	1
+FAP UU Senior Project Manager	1
+FAP UU Shipping Mail Supervis	1
+FAP UU Utilities Manager	1
+FAP UX Engin & Tech Staff Mngr	1
+FAP UX Fac and Constr Saf Off	1
+FAP UX Project Support Super	1
+FAP UX Systems Services Mngr	1
+FLL UP  Sr Instructor I	1
+FLL UP Asc Prof of Italian	1
+FLL UP Asc Professor	1
+FLL UP Asc Professor (CALL)	1
+FLL UP Assc Prof	1
+FLL UP Assc Professor	1
+FLL UP Assoc Prof	1
+FLL UP Associate Professor	4
+FLL UP Asst Prof	2
+FLL UP Asst Prof - Japanese	1
+FLL UP Asst Prof Spanish	1
+FLL UP Asst Profe	1
+FLL UP Asst Professor	3
+FLL UP Asst Professor-Japanese	1
+FLL UP Instructor - Spanish	1
+FLL UP Instructor Korean	1
+FLL UP Instructor Russian	1
+FLL UP Instructor Spanish	1
+FLL UP Professor	12
+FLL UP Senior Instructor	1
+FLL UP Senior Instructor I	2
+FLL UP Senior Instructor II	1
+FLL UP Sr Instructor I	3
+FLL UP Sr Instructor II	2
+FLL UT Salary Pool < .50	35
+FLL UX Department Chair	1
+FLL UX Department Manager	1
+FPA UP Academic Advisor	2
+FPA UP Student Advisor	1
+FPA UX AsstDean Administration	1
+FPA UX Chief Actg&Bdgtary Ofcr	1
+FPA UX Dean  Fine & Perf Arts	1
+FPA UX Stage Production Coord	1
+Facilities Engineer 1	2
+Fiscal Coordinator 2	1
+Food Service Coordinator	2
+Food Service Worker 2	1
+GEN UU Asst General Counsel	3
+GEN UU Exec Ast to GnrlCounsel	1
+GEN UU General Counsel	1
+GEN UU Paralegal	1
+GGR UP Asc Prof	1
+GGR UP Assistant Professor	1
+GGR UP Assoc Prof	1
+GGR UP Asst Prof	2
+GGR UP GIS Lab Manager	1
+GGR UP Professor	2
+GGR UT Hourly Research	3
+GGR UT Salary Pool < .50	13
+GGR UX Department Chair	1
+GLG UP Asc Prof	2
+GLG UP Assistant Professor UGE	1
+GLG UP Asst Prof	1
+GLG UP Asst Professor	1
+GLG UP Prof	2
+GLG UP Rsch Asst	1
+GLG UP Rsch Asst PostDoc	1
+GLG UP Rsch Asst Professor	1
+GLG UT Salary Pool < .50	7
+GOV UU Dir State Gov Relations	1
+GOV UU Director of GovRelation	1
+General Maintenance Mechanic	10
+Grounds Maintenance Worker 1	1
+Grounds Maintenance Worker 2	1
+HON UP Asc Prof	1
+HON UP Asst Prof	1
+HON UP Professor	2
+HON UT Salary Pool < .50	1
+HON UX Dir  Univ Honors Prog	1
+HOU UU Ext & Univ Events Mngr	1
+HOU UU Residence Director	1
+HOU UX Asc Dir for HouBusOps	1
+HOU UX Summer Hous/Conf Mgr	1
+HRC UU Asc Dir for HR -Payroll	1
+HRC UU Asc Vice President	1
+HRC UU AscDir Labor/ERelations	1
+HRC UU AscDirforHRBenefits	1
+HRC UU Benefits Coordinator	1
+HRC UU Compensation Manager	1
+HRC UU Employee Rel Specialist	1
+HRC UU EmployeeRel&TrainSpec	1
+HRC UU Employment Assistant	1
+HRC UU Employment Manager	1
+HRC UU Exec Asst to the AVP	1
+HRC UU HR Partner	3
+HRC UU HR Specialist	1
+HRC UU HR Sr Sys & Bis Analyst	1
+HRC UU HRIS Analyst/Proj Man	1
+HRC UU HRIS Coordinator	1
+HRC UU Payroll Accountant	2
+HRC UU Payroll Manager	1
+HRC UU Payroll Technician	1
+HRC UU Sr Benefits Coordinator	1
+HRC UU Sr Leaves Administrator	1
+HRC UU Sr Payroll Accountant	2
+HST UP Asc Professor	2
+HST UP Assistant Professor	1
+HST UP Assoc Prof	2
+HST UP Associate Professor	2
+HST UP Asst Prof	2
+HST UP Asst Professor	4
+HST UP Editorial Assoc Ofc Mgr	1
+HST UP Professor	8
+HST UT Salary Pool < .50	6
+Horticulturist	1
+Hvac Control Technician	1
+IAF UX Asc Dir Waseda Oregon	1
+IAF UX Exec Ast/Financial Ofcr	1
+IAF UX Executive Director	1
+IAS UP Accessibility Specialis	1
+IAS UP Inclusive Tech Coord	1
+IDM UP Research Ctr Coord	1
+IMS UP Research Associate	1
+IMS UP Sr Rsch Asst II	1
+IMS UX Dir  Inst Ptld Metro S	1
+INR UP Research Assistant	1
+INR UP Rsch Asc	2
+INR UP Rsch Asst	3
+INR UP Rsch Wildlife Biologist	2
+INR UX Director of INR	1
+INR UX Zoology Projects Mgr	1
+INT UP Intl Student Advisor	1
+INT UX Director ISSS	1
+IOA UP Professor	1
+IOA UP ReschAssoc/EvalSpecOGEC	1
+IOA UP Sr Rsch Asc II	1
+IOA UX Dir Institute On Aging	1
+IRS UU Coord Client Sys Admin	1
+IRS UU Mgr DistanceLearningCtr	1
+IRS UU Tech Classroom&Lab Mgr	1
+ISP UP Prog Asst Intl Spec Prg	1
+ISP UP Program Manager	1
+ISP UX Asc Director ISP	1
+ISS UP CommunicationsCoord	1
+ISS UP Program Administrator	1
+ISS UP Program Manager	1
+ISS UP Rsch Asst Prof	1
+ISS UP Sust Curriculum Coord	1
+ISS UP SustainCommDirector	1
+ISS UT Hourly AFT	1
+ISS UX Asst Dir	1
+ISS UX Director of ISS	1
+IST UP Asc Prof	1
+IST UP Asc Professor (UGE)	1
+IST UP Assistant Professor	1
+IST UP Asst Professor	1
+IST UP Asst Professor (UGE)	1
+IST UP Professor	1
+IST UP Program Admin/Advisor	1
+IST UT Salary Pool < .50	4
+IST UX Program Director	1
+ITS UU Director of ITS	1
+Info Technology Consultant	38
+Instrument Technician 3-Electr	1
+Instrument Technology Mechanic	1
+JST UP Assistant Professor	1
+JST UP Associate Professor	1
+JST UP Asst Prof	1
+JST UX Director Judaic Studies	1
+JUS UP Assistant Professor	1
+JUS UP Associate Professor	1
+JUS UP Asst Prof	1
+JUS UP Professor	2
+JUS UP Sr Instructor II PR	1
+JUS UT Salary Pool < .50	9
+LAS UP Academic Advisor	8
+LAS UP AmeriCorps Prg Officer	1
+LAS UP Com & Mktg Mgr	1
+LAS UP Coord HealthSciAdvising	1
+LAS UP Development Assistant	1
+LAS UP Health Sciences Advisor	2
+LAS UP Prog Asst ChallengeLINK	1
+LAS UP Program Administrator	1
+LAS UP Rethink Project Mgr	1
+LAS UU Major Gifts Officer	1
+LAS UU Sr Director for Dev	1
+LAS UX Admin Asst/Office Mgr	1
+LAS UX Asc Dean  CLAS	2
+LAS UX Assistant Dean	1
+LAS UX Associate Dean	1
+LAS UX Asst Dean FinanceAdmin	1
+LAS UX Asst to Assoc Dean	1
+LAS UX Dean Liberal Arts & Sc	1
+LAS UX Dean's Executive Asst	1
+LAS UX Dir Challenge/Link Prog	1
+LAS UX Fiscal Officer	1
+LAS UX SrFinclAnalyst-SciRsch	1
+LIB UP AscProfLiaisonLibrarian	1
+LIB UP AscProfSpecCollsUnivArc	1
+LIB UP Assc Professor  FPA	1
+LIB UP Assistant Professor	1
+LIB UP Asst System Librarian	1
+LIB UP BusEcnInstRefLibrarian	1
+LIB UP Com&Outreach Librarian	1
+LIB UP Dist Learning Librarian	1
+LIB UP Education Librarian	1
+LIB UP ElectContRes Librarian	1
+LIB UP Engineering Librarian	1
+LIB UP Human&SocScienLibrarian	1
+LIB UP Humanities Librarian	1
+LIB UP Librarian-SocialScience	1
+LIB UP Ref Lib/InfoConsult UPA	1
+LIB UP Refrnce&Inst Librarian	1
+LIB UP ResrcServ/SpecProjLib	1
+LIB UP Science Librarian	1
+LIB UP SerialsMaintCoordinator	1
+LIB UP SocialSciencesLibrarian	1
+LIB UX Access Services Manager	1
+LIB UX Acquisitions Librarian	1
+LIB UX Asc Prof  Asc Univ Lib	1
+LIB UX Ast Univ Lib AdminSrvcs	1
+LIB UX Dean Univ Librarian	1
+LIB UX Digital Initiatives Lib	1
+LIB UX Gov Info Librarian	1
+LIB UX Library Fiscal Analyst	1
+LIB UX Mgr of Library Tech	1
+LIB UX Office Manager	1
+LIB UX Professor  MonoCatlgLib	1
+LIB UX Resouce Sharing Sprvsr	1
+LIN UP Assistant Professor	2
+LIN UP Associate Professor	1
+LIN UP Asst Prof	1
+LIN UP Coord Dig Literacy Proj	1
+LIN UP Instructor	17
+LIN UP Instructor IELP	1
+LIN UP Instructor NR	1
+LIN UP Learner Web Tech Dir	1
+LIN UP Professor	4
+LIN UP Prog & Adm Outreach Mgr	1
+LIN UP Rsch Asst Professor	1
+LIN UP Senior Instructor II	7
+LIN UP Sr Instructor II	2
+LIN UT Salary Pool < .50	3
+LIN UX Department Chair	1
+Laboratory Technician 1	2
+Laboratory Technician 2	3
+Laborer 2	1
+Library Technician 2	5
+Library Technician 3	19
+Locksmith	1
+MEN UP Asc Prof	6
+MEN UP Assoc Prof	1
+MEN UP Asst Prof	3
+MEN UP Professor	4
+MEN UP Rsch Asst	1
+MEN UT Salary Pool < .50	4
+MEN UX Department Chair	1
+MME UP Rsch Asst	1
+MME UT Adjunct Pool 12 mo < .5	2
+MMR UP Rsch Asst	2
+MMR UP Sr Rsch Asst I	1
+MTH UP Asc Prof	3
+MTH UP Assoc Prof	1
+MTH UP Asst Prof	4
+MTH UP Instructor	1
+MTH UP Maseeh Chair in MTH Sc	1
+MTH UP Prof	13
+MTH UP Professor	2
+MTH UP Senior Instructor I	1
+MTH UP Sr Instructor I	3
+MTH UT Salary Pool < .50	7
+MTH UX Dept Administrator	1
+MTH UX Dept Chair	1
+MUS UP Asc Prof	9
+MUS UP Asc Prof Appl Clar	1
+MUS UP Asst Prof	4
+MUS UP Asst Prof ApldHorn	1
+MUS UP Instructor	1
+MUS UP Professor	6
+MUS UT Salary Pool < .50	47
+MUS UX School Director	1
+Mail Services Assistant	1
+Management Analyst 2	1
+Medical Aide	5
+Mid-level Medical Practitioner	2
+NAS UP Professor	1
+NAS UP Sr Instructor II	1
+NAS UX Program Director	1
+NPC UP Budget Administrator	1
+NPC UP Natural Resc Pgm Mgr	1
+NPC UP Program Coordinator	1
+NPC UP Program Manager	1
+NPC UP Project Associate	1
+NPC UP Project Coordinator	1
+NPC UP Project Manager	1
+NPC UP Project Mgr	2
+NPC UP Senior Project Manager	1
+NPC UX DeputyDirforNatlPrgms	1
+NPC UX DeputyDirforORprgms	1
+OAA UP Curriculum Coordinator	1
+OAA UP Pgm Admn McNairScholars	1
+OAA UX Asst to Provost	1
+OAA UX Coord for Acad Support	1
+OAA UX CrdAccredAsses&SpecPrjc	1
+OAA UX Dir RnldMcNair/Ast Prof	1
+OAA UX Fiscal & Ops Manager	1
+OAA UX Fiscal Officer&SpecAsst	1
+OAA UX Project Manager	1
+OAA UX Provost & VP OAA	1
+OAA UX Special Asst To Provost	1
+OAA UX Special Asst to VPAPLD	1
+OAA UX VP AcadInnov&StdtSccss	1
+OAI UP Assessment Coordinator	1
+OAI UP Ast Dir ComBasedLrn	1
+OAI UP Instructional Designer	3
+OAI UP Program Administrator	1
+OAI UU Spcl Ast/VPAcadInnovStS	1
+OAI UX AscDir Prgm&Cse Design	1
+OAI UX Dir TchgLrngAssmt	1
+OCD UP Coor Training&Education	1
+OCD UP Coord:PgmOpCrd&CertOCCD	1
+OCD UP Cred&Cert Specialist	1
+OCD UP Credential&Cert Spec	1
+OCD UP Credentialing Spec	2
+OCD UP Prog Coord AftrschlKids	1
+OCD UP Train&Edu Spec  OCCD	1
+OCD UP Training&Education Spec	1
+OCD UT Salary Pool <.50	5
+OCD UX Director OCCD	1
+OGS UP Grad Acad Serv Coord	1
+OGS UP Grad DARwin Coor	1
+OGS UP Grad Stdt Services Coor	1
+OGS UU Data Systems Manager	1
+OGS UX Coor  Graduate Studies	1
+OGS UX Dean	1
+OIA UP Asst Director	1
+OIA UP Education Abroad Advis	1
+OIA UP FacultyLed Prgm Advisor	1
+OIA UP Instructor	1
+OIA UP Intl Stdt Life Advisor	1
+OIA UP Intl Student Advisor	1
+OIA UP Intl Student Life Prgmr	1
+OIA UP IntlStdnt & SEVISAdvisr	1
+OIA UP Intnl Faculty Advisor	1
+OIA UP Itnl Sdnt &Sclr Advisor	1
+OIA UP Outreach Coordinator	1
+OIA UP Program Manager Waseda	1
+OIA UP Senior Instructor I	1
+OIA UU ExcAsst to ExcDirector	1
+OIA UX AssocDirInterStudentLif	1
+OIA UX Dir Education Abroad	1
+OIA UX Dir Intl Partnerships	1
+OIR UX Asc Director	1
+OIR UX Director	1
+OIR UX Rsch Analyst	1
+OIR UX Rsch Asc Prof	1
+OIS UU Dir User Support Servcs	1
+OIS UU FIS/HRIS Manager	1
+OIS UU System Manager SIS/FA	1
+OIS UX BI Team Manager	1
+OIT UU Admin Services Manager	1
+OIT UU Asc CIO Aca & Cus Serv	1
+OIT UU Asc Dir CIS	1
+OIT UU Asc Dir Enterprise Apps	1
+OIT UU Asc Dir NTS Sys  App	1
+OIT UU Asc VP of OIT & CIO	1
+OIT UU Dir Comp Infra Serv	1
+OIT UU Dir Enterprise Solution	1
+OIT UU Fiscal Analyst	1
+OIT UU IT Systems Architect	1
+OIT UU Infor Solutions Manager	1
+OIT UU Project Manager IT	1
+OIT UU Windows Server Team Mgr	1
+OIT UX Asc Dir Acad&Rsrch Com	1
+OIT UX Server Security Admin	1
+OMC UU Art Director	1
+OMC UU AscVP Marketing & Com	1
+OMC UU Dir  Web Communications	1
+OMC UU Dir of Communications	1
+OMC UU Dir ofCreative Services	1
+OMC UU Director of Marketing	1
+OMC UU Editor	1
+OMC UU InteractiveProjectMgr	1
+OMC UU Media Relations Coord	1
+OMC UU Mktg & Comm Rel Mgr	1
+OMC UU Social Media Coord	1
+OMC UU Web Developer	1
+OSA UP Advocate Wmn Rsc Ctr	1
+OSA UP Asst CoordWmnsResrceCtr	1
+OSA UP Asst Dir Learning Ctr	1
+OSA UP Asst Dir of Orientation	1
+OSA UP CARE Team Case Mgr	1
+OSA UP CoordStdtAffairsOutrch	1
+OSA UP CoordStdtLdrsforSvc	1
+OSA UP CoordStdtVetServ	1
+OSA UP MiddleEastRetentionSpec	1
+OSA UP Mlticltrl Ctr Prg Coord	1
+OSA UP Nat Am Stdt Cntr Prg Co	1
+OSA UP SALP Advisor	2
+OSA UP SALP Assistant Director	1
+OSA UP Spec Asst to DOS	1
+OSA UP SustainLeadCoord NR	1
+OSA UU Enrol Mgmt Data Analyst	1
+OSA UX Asc Director SALP	1
+OSA UX Asc VP Enroll Mgmt	1
+OSA UX Asst Dean of Students	1
+OSA UX Coord of EMSA Out & Adv	1
+OSA UX Dean of Student Life	1
+OSA UX Dir Assessment & Rsch	1
+OSA UX Dir Enrl Mgmt Comm Tech	1
+OSA UX Dir of Cultural Centers	1
+OSA UX Dir of Retention DMSS	1
+OSA UX Director Learning Ctr	1
+OSA UX Director Wmn Rsc Ctr	1
+OSA UX Executive Office Coord	1
+OSA UX Int Dir HousingRes Life	1
+OSA UX Network Systems Analyst	1
+OSA UX Vice President	1
+Office Specialist 1	45
+Office Specialist 2	129
+Oper Systems-Network Analyst	20
+Operations Specialist	2
+PAD UP Assistant Professor	1
+PAD UP Assoc Prof	2
+PAD UP Associate Professor	2
+PAD UP Asst Professor	1
+PAD UP Asst Professor PR	1
+PAD UP Asst Professor of Pract	2
+PAD UP Professor	6
+PAD UP Program Coordinator	1
+PAD UP Program Coordinator-ELI	1
+PAD UT Salary Pool < .50	9
+PAD UU AsstDirCtrPublicSer	1
+PAD UX Dir of CtrPublicService	1
+PHE UP  Sr Instructor II	1
+PHE UP Assistant Professor	1
+PHE UP Assoc Prof	1
+PHE UP Associate Professor	1
+PHE UP Asst Prof	1
+PHE UP Instructor	1
+PHE UP OMPH ProgramCoordinator	1
+PHE UP Professor	3
+PHE UP Program Coordinator	1
+PHE UP Research Associate	1
+PHE UP Sr Instructor II	1
+PHE UT Salary Pool < .50	32
+PHE UX Department Chair	1
+PHE UX DirCtrPublicHealth Stud	1
+PHL UP Assistant Professor	2
+PHL UP Assoc Prof	1
+PHL UP Associate Professor	2
+PHL UP Asst Professor	1
+PHL UP Asst Professor (UGE)	1
+PHL UP Instructor	1
+PHL UP Professor	1
+PHL UP Program Administrator I	1
+PHL UP Senior Instructor I	1
+PHL UP Sr Instructor I	2
+PHL UT Salary Pool < .50	7
+PHL UX Department Chair	1
+PHY UP Asc Prof	3
+PHY UP Associate Professor	1
+PHY UP Asst Prof	1
+PHY UP Instructor	1
+PHY UP Post Doc Rsch Asst	1
+PHY UP Prof	5
+PHY UP Professor	2
+PHY UP Rsch Asc Prof	1
+PHY UP Rsrch Asst Professor	1
+PHY UT Salary Pool < .50	1
+PHY UX Department Chair	1
+PHY UX Department Manager	1
+POF UU Asst to Chief of Staff	1
+POF UU COS & VP Pub Rel	1
+POF UU Exec Asst to President	1
+POF UU Exec Secretary to Pres	1
+POF UU President	1
+POF UU Sr Policy Analyst	1
+POL UP Asc Professor	1
+POL UP Assc Professor	1
+POL UP Assistant Professor	2
+POL UP Assoc Prof	1
+POL UP Associate Professor	1
+POL UP Asst Prof	1
+POL UP Dir of CWPP	1
+POL UP Professor	2
+POL UP Professor (POL/INT)	1
+POL UP Program&Com Asst	1
+POL UT Salary Pool < .50	5
+PRC UP Research Assistant	1
+PRC UP Rsch Asc	2
+PRC UX Asst Dir  PopRschCenter	1
+PRK UU Director Trans & Park	1
+PRK UU Operations Manager	1
+PSR UU Asc Campus Planner	1
+PSR UU Dir Campus Planning	1
+PSR UU Mgr CampusDesign & Plan	1
+PSR UU Sustainability Coord	1
+PSY UP Asc Prof	1
+PSY UP Assistant Professor	4
+PSY UP Assoc Prof	2
+PSY UP Associate Professor	2
+PSY UP Asst Prof	1
+PSY UP Military Project Assist	1
+PSY UP Military Project Coord	1
+PSY UP Professor	7
+PSY UP Rsch Asst	1
+PSY UP Rsch Asst/ProjectCoord	1
+PSY UT Hourly AFT	1
+PSY UT Salary Pool < .50	18
+PSY UX Department Manager	1
+PSY UX Project Manager VSST	1
+Painter	5
+Paralegal 1	1
+Paralegal 2	1
+Parking Services Representativ	2
+Pipe & Steam Fitter	4
+Plumber	3
+Program Representative 1	3
+Program Representative 2	1
+Program Technician 2	1
+Project Coordinator	3
+Property Specialist 2	2
+Property Specialist 3	1
+Psychometrician	2
+Public Info Representative 1	1
+Purchasing Agent 2	1
+REC UP Aquatics & Safety Coord	1
+REC UP Cood/Advr Rec Clubs	1
+REC UP Coord Adaptive Sports	1
+REC UP Coord Fitness&HealthPro	1
+REC UP CoordMrkting&Outreach	1
+REC UP Facility Coordinator	1
+REC UP Intrmrls & Grp Ex Coord	1
+REC UP MemberServCoordinator	1
+REC UP Outdoor Program Coord	1
+REC UX AsscDir Prgms&StdtDev	1
+REC UX AsscDir of Operations	1
+REC UX Asst Dir Business Ops	1
+REC UX Director of Campus Rec	1
+REG UP Res Off & Rec Admin	1
+REG UX Asst Registrar  Deg Clr	1
+REL UU Budget Ofcr/Strat Anlys	1
+REL UU Exec Asst to VP of UR	1
+REL UU VP For Univ Advancement	1
+RES UU Asc Dir Hous & Res Life	1
+RES UX Area Coordinator	2
+RES UX Res Director	1
+RES UX Residence Director	1
+RES UX Stdt Conduct Coord	1
+RRI UP AdmCoor/TrngTechAsstnce	1
+RRI UP Fiscal & Grant Coord	1
+RRI UP Office Manager	1
+RRI UP Payroll & HR Coord	1
+RRI UP PrjctMgr/RschAsc	1
+RRI UP Project Mgr/RschAssc	1
+RRI UP Pub&Multimedia Mgr	1
+RRI UP RclmFutr PartnerDevDir	1
+RRI UP RclmFutrs Prog Mgr	1
+RRI UP Research Associate	7
+RRI UP Rsch Asc	1
+RRI UP Rsch Asc Prof	1
+RRI UP SSW Rsch Administrator	1
+RRI UP Sr Research Assistant	4
+RRI UP Sr Research Assistant I	3
+RRI UP Sr Research Associate I	2
+RRI UP Sr Rsch Associate	1
+RRI UP Sr Rsch Asst	1
+RRI UT Salary Pool < .50	9
+RRI UX Center Coordinator	1
+RRI UX Dir RTC/Rsch Asc Prof	1
+RRI UX Director RRI/ Professor	1
+RRI UX OpsMgr & AssttoAscDean	1
+RRI UX ReclaimingFuturesDirect	1
+RRI UX Research Associate	1
+RRI UX Rsch Asc Prof	1
+RSP UP Asst Director  Research	1
+RSP UP Dept Rsch Admin	3
+RSP UP Dept Rsch Admin (LAS)	1
+RSP UP First Stop Program Asst	1
+RSP UP FirstStopPrgmManager	1
+RSP UP Fiscal Coordinator	1
+RSP UP IIA Admin Support	1
+RSP UP IIP CommunicationsCoord	1
+RSP UP Innovation Associate	1
+RSP UP Policy Analyst	1
+RSP UU Dir Sponsored Projects	1
+RSP UU Director of Business Ac	1
+RSP UX Asc Dir Sponsrd Prjcts	1
+RSP UX Assc VP forStratPartner	1
+RSP UX AsscVicePresforresearch	1
+RSP UX Asst VP for Research	1
+RSP UX AsstDir Dept Rsch Admin	1
+RSP UX Dir IIA	1
+RSP UX Dir Research Integrity	1
+RSP UX ExecAsst to VP	1
+RSP UX Mgr  Pdx Bus Accltr	1
+RSP UX Mgr CLAS Dept RschAdmin	1
+RSP UX Vice President	1
+Registered Nurse 1	7
+Research Analyst 1	3
+Research Analyst 2	1
+Research Analyst 3	1
+Revenue Agent 1	2
+Revenue Agent 2	5
+SBA UP Acad&CrAdv/StdntEmpMgr	1
+SBA UP Academic Adviser	1
+SBA UP Academic Advisor	3
+SBA UP Asc Prof	8
+SBA UP AscProf/AcadDirCtrRlEst	1
+SBA UP Assc Prof of Finance	1
+SBA UP Assistant Professor	3
+SBA UP Assoc Prof	2
+SBA UP Associate Professor	1
+SBA UP Asst Dir of Development	1
+SBA UP Asst Prof	5
+SBA UP Asst Prof NR	1
+SBA UP Asst Professor	1
+SBA UP AsstDir Career&StdtServ	1
+SBA UP BusCapPartnerCoord	1
+SBA UP Business Advisor	2
+SBA UP Dep Dir China Pgms	1
+SBA UP Dir Grad Adm/Acad Adv	1
+SBA UP Global Program Admin	1
+SBA UP Instructor	5
+SBA UP Instructor NR	2
+SBA UP Mgr Business Intshp Pgm	1
+SBA UP Mgr StdtPrgms&Diversity	1
+SBA UP Network Technician	1
+SBA UP Online Faculty Support	1
+SBA UP Prgm Mgr SEI	1
+SBA UP Professor	15
+SBA UP Program Assistant	1
+SBA UP Recruit & Admiss Spec	1
+SBA UP Recruit and Admis Spec	1
+SBA UP SBA Diversity Director	1
+SBA UP Sr Instructor I	7
+SBA UP Sr Instructor II	1
+SBA UP Visiting Professor NR	2
+SBA UT Salary Pool < .50	68
+SBA UU Dir Mktg/Recruit UGrad	1
+SBA UU Major Gifts Officer	1
+SBA UX Academic Dir MSFA Prgm	1
+SBA UX Asc Dean	1
+SBA UX Assc Dean of Faculty	1
+SBA UX Assoc Director  FILC	1
+SBA UX Chief Acctng & Bud Ofcr	1
+SBA UX Dean  Sch Of Bus Admin	1
+SBA UX Dir Business Outreach	1
+SBA UX Dir Mktg & Recruiting	1
+SBA UX Dir Undergrad Prgms	1
+SBA UX Dir of Impact Entrepren	1
+SBA UX Ex Dir OnlineInitiative	1
+SBA UX Exec Dir Grad Business	1
+SBA UX ExecDir Ctr Real Estate	1
+SBA UX MBA Academic Director	1
+SBA UX Ntwrk & Workstatn Admin	1
+SBA UX Supp Spclst Suprvisor	1
+SCH UP Asc Prof	1
+SCH UP Assistant Professor	3
+SCH UP Asst Prof	1
+SCH UP Instructor	3
+SCH UP Instructor NR	1
+SCH UP instructor	1
+SCH UX Finance&Oper Ast to Dir	1
+SCH UX Sr Inst I Dir PESCP	1
+SCS UP Research Asst	1
+SCS UP Research Asst - CAT	1
+SCS UP RscAst/LeadUNIX/NtwkAdm	1
+SCS UP Rsch Asst	1
+SCS UP Rsch Asst - CAT	1
+SCS UP RschAst/AstWindowsAdmin	1
+SDO UP Advisor SALP	1
+SDO UP Coord Student Led Serv	1
+SDO UX Coord ASPSU Children's	1
+SDO UX Director of SALP	1
+SDO UX Senior Accountant	1
+SEC UP Rsch Asc	1
+SEC UT 9 mo. Salary Pool < .50	2
+SEC UX Dir Science Education	1
+SHC UP Clinical Social Worker	1
+SHC UP ClncSocWkr/GpsPgmSpecs	1
+SHC UP ClnclSocWkr/OutrchSpec	1
+SHC UP Dietician	1
+SHC UP Psychiatrist	2
+SHC UP Staff Physician	1
+SHC UP Stdnt Insurance Coord	1
+SHC UP Student Health Advocate	1
+SHC UX Dir Health & Edu	1
+SHC UX Dir of Dental Services	1
+SHC UX Director SHAC	1
+SHC UX Exec Admin Coordinator	1
+SHC UX Operations Manager	1
+SHS UP Consulting Physician	1
+SHS UP HealthEdProgAdministrat	1
+SHS UP Staff Dentist	1
+SHS UP Staff Physician	1
+SHS UU Market & Comm Coord	1
+SHS UX Associate Director	1
+SHS UX Dir  Stdt Health Serv	1
+SHS UX Director of CAPs	1
+SLS UP Assc Staff Attorney	1
+SLS UP Assoc Staff Attorney	1
+SLS UX Managing Attorney	1
+SOC UP Asc Prof	1
+SOC UP Assistant Professor	5
+SOC UP Assoc Prof	1
+SOC UP Assoc Prof (UNST)	1
+SOC UP Asst Prof	1
+SOC UP Professor	6
+SOC UP Senior Instructor II	1
+SOC UT Salary Pool < .50	11
+SOC UX Department Chair	1
+SOG UP Asc Professor	1
+SOG UP Grants Administrator	1
+SOG UP OR Solutions ProgramMgr	1
+SOG UP Program Coordinator	1
+SOG UX Asst Dir CCJ Online Prg	1
+SOG UX Asst to Dir SOG	1
+SOG UX Dir OR Consensus Prgm	1
+SOG UX Director	1
+SOG UX Director of CJPRI	1
+SOG UX IntrmDir Plcy Consensus	1
+SPA UP Award Setup Coord	1
+SPA UP Depart Rsch Admin	1
+SPA UP Dept Rsch Admin SSW	1
+SPA UP Financ&Compl Officer	1
+SPA UP Grant&Intake Coord	1
+SPA UP Grants&Agree Analyst	6
+SPA UX Finance&Compl Manager	1
+SPA UX Grants&Agree Officer	3
+SPA UX Mgr CUPADept Rsch Admin	1
+SPA UX Mgr DeptRschAdmin SSW	1
+SPD UP Assistant Professor	2
+SPD UP Asst Clincal Prof	1
+SPD UP Asst Prof	1
+SPD UP Senior Instructor 1	1
+SPD UT Salary Pool < .50	8
+SPH UP Asst Clinical Prof	2
+SPH UP Asst Clinical Professor	1
+SPH UP Asst Prof	1
+SPH UP Clinical Assoc Prof	2
+SPH UP Clinicical Asst Prof	1
+SPH UX Department Chair	1
+SRL UP Rsch Asc	1
+SRL UP Rsch Asc/Prjct Mgr	1
+SRL UP Sr Rsch Asc I	1
+SRL UP Sr Rsch Asst I	1
+SSW UP Academic Advisor	1
+SSW UP Asc Prof	3
+SSW UP Assistant Professor	3
+SSW UP Assoc Prof	3
+SSW UP Associate Professor	5
+SSW UP Asst Prof	1
+SSW UP Asst Prof/ActDirFldEdu	1
+SSW UP AsstProf/AsstDirFldBSW	1
+SSW UP Instructor Fld Speclst	1
+SSW UP Instructor/Site Coord	1
+SSW UP Prof	1
+SSW UP Professor	4
+SSW UP Senior Instructor I	1
+SSW UP Site Coord MSWDO	1
+SSW UP Sr Instructor I	1
+SSW UP Stdnt Rcrtmt&Ret Spclst	1
+SSW UT Salary Pool < .50	28
+SSW UU Admin Services Manager	1
+SSW UX Asc Dean Academics	1
+SSW UX Ast Prof Dir SW Std Aff	1
+SSW UX BSW Program Director	1
+SSW UX CFS Program Director	1
+SSW UX Chf Actg&Bdgtry Officer	1
+SSW UX Dean Sch Of Social Wor	1
+SSW UX Field Program Director	1
+SSW UX MSW Program Director	1
+SSW UX PhD Program Director	1
+SYS UP Professor	2
+SYS UT Salary Pool < .50	3
+Science Lab Preparator	2
+Science Storekeeper	1
+Senior Graphic Designer	2
+Skilled Craft/Non-Teaching	18
+TAD UP Asc Prof	1
+TAD UP Assistant Professor	2
+TAD UP Asst Prof	2
+TAD UP Professor	5
+TAD UP Professor PR	1
+TAD UT Salary Pool < .50	17
+Telecomm Analyst 2	1
+Telecomm Technician 2	1
+Trades/Maintenance Coordinator	3
+Trades/Maintenance Worker 2	3
+Training Specialist	7
+UGE UP Asc Professor	1
+UGE UP Assistant Professor	6
+UGE UP Asst Prof	2
+UGE UP Capstone Coordinator	1
+UGE UP Dir First Yr Experience	1
+UGE UP Dir of Assemnt Clusters	1
+UGE UP Instructional Designer	1
+UGE UP Instructor	6
+UGE UP Instructor NR	2
+UGE UP Instructor/Acad Advisor	1
+UGE UP Retention Associate	1
+UGE UP Writing Coordinator	1
+UGE UT Salary Pool < .50	34
+UGE UX Director of Mentor Prog	1
+UGE UX Interim Dir Uni Studies	1
+UGE UX InterimCo-DirMentorProg	1
+UPA UP Academic Advisor	2
+UPA UP Associate Professor	1
+UPA UP Lead Academic Advisor	1
+UPA UP Mngr UPA Computer Labs	1
+UPA UP Sr Rsch Asc I	1
+UPA UX Associate Dean  CUPA	1
+UPA UX AsstDean Finance&Admin	1
+UPA UX Dean  Urban & Pub Affr	1
+UPL UU Bus Mgr & Fin Analyst	1
+UPL UU General Manager	1
+UPL UU Sales Representative	1
+USP UP Academic Advisor	1
+USP UP Asc Prof	1
+USP UP Assistant Professor	3
+USP UP Associate Professor	4
+USP UP Asst Prof	3
+USP UP Asst Professor	1
+USP UP Professor	1
+USP UP Program Administrator	1
+USP UP Research Associate	1
+USP UP Rsch Asc Post Doc	1
+USP UP Sr Rsch Asc I	1
+USP UP Sr Rsch Ast-Demographer	1
+USP UT Salary Pool < .50	16
+USP UX Director	1
+USP UX Finance&Oper Ast to Dir	1
+UTC UP Financial Program Admin	1
+UTC UP Fiscal Ops Coordinator	1
+UTC UP OTREC CommPrgAdmin	1
+UTC UP Rsch Asst Post Doc	1
+UTC UP Rsch&Ed Prog Admin	1
+UTC UX OTREC Director	1
+UTC UX Research ProgramManager	1
+UTC UX SustainTransportPrgMgr	1
+VGD UP Advertising Adviser	1
+VGD UX Advisor Stdt Publicatns	1
+Videographer 2	1
+WRC UP Events & Publicity Coor	1
+WSC UP Asc Professor	1
+WSC UP Asst Prof	1
+WSC UP Asst Professor	1
+WSC UP Instructor	2
+WSC UP Senior Instructor I	1
+WSC UP Senior Instructor II	1
+WSC UT Salary Pool < .50	6
+WSC UX Program Director	1
+WST UP Assistant Professor	1
+XCE UP Program Asst CEED	1
+XCE UP Program Coordinator	1
+XCE UP Rsch Asc	1
+XCE UT Salary Pool < .50	20
+XCE UX Asc Vice Prov/Dir CEED	1
+WARN: The method class org.apache.commons.logging.impl.SLF4JLogFactory#release() was invoked.
+WARN: Please see http://www.slf4j.org/codes.html#release for an explanation.
